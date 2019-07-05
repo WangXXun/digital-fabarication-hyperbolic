@@ -1,5 +1,4 @@
-# digital-fabarication-hyperbolic
-Robotic Prefabricated Plywood System
+# Robotic Prefabricated Plywood System
 
 Time: 2018
 
